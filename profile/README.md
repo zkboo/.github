@@ -2,7 +2,7 @@
 
 ![Rust](https://img.shields.io/badge/rust-1.92+-orange.svg)
 
-A Rust crate ecosystem implementing the [ZKBoo protocol](https://eprint.iacr.org/2016/163).
+A Rust crate ecosystem implementing the [ZKBoo protocol](https://eprint.iacr.org/2016/163), using [ZKB++ optimisations](https://eprint.iacr.org/2017/279).
 
 ## 🚧 Warning 🚧
 
