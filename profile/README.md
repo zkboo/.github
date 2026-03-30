@@ -1,8 +1,14 @@
 # ZKBoo
 
-![Rust](https://img.shields.io/badge/rust-1.92+-orange.svg)
+A Rust crate ecosystem implementing the [ZKBoo protocol](https://eprint.iacr.org/2016/163), using [ZKB++ optimisations](https://eprint.iacr.org/2017/279):
 
-A Rust crate ecosystem implementing the [ZKBoo protocol](https://eprint.iacr.org/2016/163), using [ZKB++ optimisations](https://eprint.iacr.org/2017/279).
+- [`zkboo`](https://github.com/zkboo/zkboo): Core implementation.
+- [`zkboo-sha2`](https://github.com/zkboo/zkboo-sha2): SHA2 hash functions.
+- [`zkboo-hmac`](https://github.com/zkboo/zkboo-hmac): HMAC construction.
+- [`zkboo-modular`](https://github.com/zkboo/zkboo-modular): Modular arithmetic.
+- [`zkboo-ecc`](https://github.com/zkboo/zkboo-ecc): Elliptic curve cryptography.
+- [`zkboo-profiling`](https://github.com/zkboo/zkboo-profiling): Profiling of circuits.
+- [`zkboo-circuit-hash`](https://github.com/zkboo/zkboo-circuit-hash): Cryptographic fingerprinting of circuits.
 
 ## 🚧 Warning 🚧
 
