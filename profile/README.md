@@ -12,7 +12,7 @@ Use at your own risk.
 
 ## License
 
-All work in this organisation is licensed under [LGPLv3](LICENSE).
+Unless otherwise specified, code in this organisation is licensed under [LGPLv3](LICENSE).
 
 
 <!--
