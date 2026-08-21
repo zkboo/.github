@@ -16,9 +16,7 @@ A Rust crate ecosystem implementing the [ZKBoo protocol](https://eprint.iacr.org
 
 ## 🚧 Warning 🚧
 
-Crates in this organisation are work in progress, not yet suitable for use in production.
-Security has has been reviewed and performance has not been optimised.
-Use at your own risk.
+Crates in this organisation are work in progress and have not yet been audited.
 
 ## License
 
