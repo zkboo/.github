@@ -4,9 +4,13 @@ A Rust crate ecosystem implementing the [ZKBoo protocol](https://eprint.iacr.org
 
 - [`zkboo`](https://github.com/zkboo/zkboo): Core implementation.
 - [`zkboo-sha2`](https://github.com/zkboo/zkboo-sha2): SHA2 hash functions.
+- [`zkboo-keccak`](https://github.com/zkboo/zkboo-keccak): Keccak-256 (Ethereum) and SHAKE256 hash functions.
+- [`zkboo-ripemd160`](https://github.com/zkboo/zkboo-ripemd160): RIPEMD-160 hash function.
 - [`zkboo-hmac`](https://github.com/zkboo/zkboo-hmac): HMAC construction.
 - [`zkboo-modular`](https://github.com/zkboo/zkboo-modular): Modular arithmetic.
 - [`zkboo-ecc`](https://github.com/zkboo/zkboo-ecc): Elliptic curve cryptography.
+- [`zkboo-bip32`](https://github.com/zkboo/zkboo-bip32): BIP-32/BIP-39 key derivation and wallet addresses.
+- [`zkboo-slhdsa`](https://github.com/zkboo/zkboo-slhdsa): SLH-DSA (SPHINCS+) key generation and verification.
 - [`zkboo-profiling`](https://github.com/zkboo/zkboo-profiling): Profiling of circuits.
 - [`zkboo-circuit-hash`](https://github.com/zkboo/zkboo-circuit-hash): Cryptographic fingerprinting of circuits.
 
